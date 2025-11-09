@@ -1,4 +1,8 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
+
+NAME: NIRANJAN T
+REGISTER NUMBER: 212224060173
+
 # Algorithm or Steps Involved:
 <ol>
   <li>Define the initial state</li>
